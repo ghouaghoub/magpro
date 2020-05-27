@@ -1,0 +1,2 @@
+# magpro
+template blogger script
